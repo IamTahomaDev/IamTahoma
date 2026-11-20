@@ -27,16 +27,16 @@
         </samp>
 </h2>
 
- <a href="https://github.com/Iamtahoma">
-  <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=iamtahoma&show_icons=true&border_color=02D892&theme=dark#gh-dark-mode-only" />
+ <a href="https://github.com/iamTahomaDev">
+  <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=iamTahomaDev&show_icons=true&border_color=02D892&theme=dark#gh-dark-mode-only" />
   </a>
 
-<a href="https://github.com/Iamtahoma">
- <img width="42%" alt="https://github.com/Iamtahoma" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtahoma&border_color=02D892&layout=compact&theme=dark#gh-dark-mode-only" alt="Iamtahoma" />
+<a href="https://github.com/iamTahomaDev">
+ <img width="42%" alt="https://github.com/iamTahomaDev" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamTahomaDev&border_color=02D892&layout=compact&theme=dark#gh-dark-mode-only" alt="iamTahomaDev" />
 </a>
 
-<a href="https://github.com/Iamtahoma">
- <img alt="https://github.com/Iamtahoma" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" >
+<a href="https://github.com/iamTahomaDev">
+ <img alt="https://github.com/iamTahomaDev" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" >
 </a>
 
 [Flutter]: https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white
@@ -70,7 +70,7 @@
 [CSS3]: https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white
 [CSS3-url]: https://developer.mozilla.org/docs/Web/CSS
 [Bootstrap]: https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=Bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com/
+[Bootstrap-url]: https://getbootstrap.com/iamt
 [Tailwind]: https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white
 [Tailwind-url]: https://tailwindcss.com/
 [Postman]: https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white
